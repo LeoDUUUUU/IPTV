@@ -1,2 +1,16 @@
 咪咕,#genre#
-咪咕视频,http://8.218.67.196:5000/3000000020000011529/FifastbLive/index.m3u8
+睛彩篮球,http://8.218.67.196:5000/3000000020000011529/FifastbLive/index.m3u8
+睛彩篮球,http://154.7.177.5:5000/TVOD/3000000020000011531/FifastbLive/index.m3u8?
+睛彩竞技,http://154.7.177.5:5000/TVOD/3000000020000011530/FifastbLive/index.m3u8?
+睛彩竞技,http://154.7.177.5:5000/TVOD/2000000003000000060/hnbblive/index.m3u8?
+睛彩广场舞,http://154.7.177.5:5000/TVOD/1000000006000270005/ystenlive/index.m3u8
+咪咕视频,http://1.169.12.210:50001/TVOD/3000000010000006658/FifastbLive/index.m3u8
+咪咕视频36,http://alist.137390740.xyz:5000/TVOD/1000000006000270004/ystenlive/index.m3u8
+咪咕视频19,http://154.7.177.5:5000/TVOD/3000000010000010833/FifastbLive/index.m3u8?
+咪咕视频21,http://154.7.177.5:5000/TVOD/3000000010000011518/FifastbLive/index.m3u8?
+
+山东,#genre#
+山东体育,http://222.134.245.16:9901/tsfile/live/1006_1.m3u8
+山东体育,http://221.0.78.26:881/hls/50222/index.m3u8
+山东体育,http://fangke.blueswords.com:9901/tsfile/live/0111_1.m3u8
+山东体育,http://123.130.84.106:8154/tsfile/live/1006_1.m3u8
